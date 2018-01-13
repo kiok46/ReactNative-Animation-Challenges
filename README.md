@@ -6,6 +6,8 @@ A series of small animation challenges in React Native.
 - [ReactNative-Challange-2:  ContactSync](https://github.com/kiok46/ReactNative-Challenge-2)
 - [ReactNative-Challange-3:  PhotoGrid](https://github.com/kiok46/ReactNative-Challenge-3)
 - [ReactNative-Challange-4:  Photo Zoom](https://github.com/kiok46/ReactNative-Challenge-4)
+- [ReactNative-Challange-5:  Place Notification](https://github.com/kiok46/ReactNative-Challenge-5)
+
 
 ## ReactNative-Challenge-1
 
@@ -34,3 +36,9 @@ Inspired from: Instagram
 Follow me on Instagram: https://www.instagram.com/kuldeep_kiok46/
 
 <img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="350">
+
+# ReactNative-Challenge-5
+
+Inspired from: Place Notification:  https://uimovement.com/ui/4679/place-notification/
+
+<img src="https://user-images.githubusercontent.com/7335120/34909336-50677936-f8c5-11e7-8f3c-688ba68e2ba3.gif" width="350">
