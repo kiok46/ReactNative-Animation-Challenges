@@ -12,7 +12,7 @@ A series of small animation challenges in React Native.
 Inspired from: Addition Subtraction (Counter)
 https://uimovement.com/ui/2513/addition-subtraction/
 
-![counter](https://user-images.githubusercontent.com/7335120/34785573-8bf967d6-f657-11e7-9968-b5d72688b384.gif)
+<img src="https://user-images.githubusercontent.com/7335120/34785573-8bf967d6-f657-11e7-9968-b5d72688b384.gif" width="400">
 
 
 # ReactNative-Challenge-2
@@ -31,6 +31,6 @@ https://uimovement.com/ui/2334/contact-sync/
 
 Inspired from: Instagram
 
-<img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="350">
-
 Follow me on Instagram: https://www.instagram.com/kuldeep_kiok46/
+
+<img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="350">
