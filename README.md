@@ -1,5 +1,5 @@
 # ReactNative-Animation-Challenges
-A series of small animation challenges in React Native.
+A series of animation challenges in React Native.
 
 ## Source Code:
 - [ReactNative-Challange-1:  Counter](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-1) ||  [ code](https://github.com/kiok46/ReactNative-Challenge-1)
