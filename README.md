@@ -9,6 +9,11 @@ A series of small animation challenges in React Native.
 - [ReactNative-Challange-5:  Place Notification](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-5) || [code](https://github.com/kiok46/ReactNative-Challenge-5)
 - [ReactNative-Challange-6:  Floating Burger](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-6) || [code](https://github.com/kiok46/ReactNative-Challenge-6)
 
+## Featured
+
+<img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/34909336-50677936-f8c5-11e7-8f3c-688ba68e2ba3.gif" width="270">
+
+
 ## ReactNative-Challenge-1
 
 Inspired from: Addition Subtraction (Counter)
