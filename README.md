@@ -13,7 +13,7 @@ A series of animation challenges in React Native.
 
 ## Featured
 
-<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="270">
+<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/35101779-bc4b20a2-fc86-11e7-8506-8a92d58c46f6.gif" width="270">
 
 ## ReactNative-Challenge-1
 
@@ -67,7 +67,7 @@ Inspired from: Place Notification:  https://uimovement.com/ui/4679/place-notific
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34909336-50677936-f8c5-11e7-8f3c-688ba68e2ba3.gif" width="300">
+<img src="https://user-images.githubusercontent.com/7335120/35101779-bc4b20a2-fc86-11e7-8506-8a92d58c46f6.gif" width="300">
 
 # ReactNative-Challenge-6
 
