@@ -13,7 +13,7 @@ A series of animation challenges in React Native.
 
 ## Featured
 
-<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="270"> 
+<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="270">  <img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="270">
 
 ## ReactNative-Challenge-1
 
@@ -87,6 +87,10 @@ Inspired from: Jedi Principles of UI Animation:  https://in.pinterest.com/pin/78
 
 Android ✔️    iOS ✔️
 
+## Try on Expo
 
-<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="350">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="350">
+https://expo.io/@kiok46/7_music
 
+<img width="171" alt="screen shot 2018-01-18 at 6 18 30 pm" src="https://user-images.githubusercontent.com/7335120/35098979-3ad82dd0-fc7c-11e7-9ad0-f547aa87a12b.png">
+
+<img src="https://user-images.githubusercontent.com/7335120/35076574-27806408-fc1f-11e7-8fa6-9e03a3693770.gif" width="300">  <img src="https://user-images.githubusercontent.com/7335120/35076596-446c0432-fc1f-11e7-9458-dc93e968be55.gif" width="300">
