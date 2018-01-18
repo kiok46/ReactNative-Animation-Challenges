@@ -8,6 +8,8 @@ A series of animation challenges in React Native.
 - [ReactNative-Challange-4:  Photo Zoom](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-4) || [code](https://github.com/kiok46/ReactNative-Challenge-4)
 - [ReactNative-Challange-5:  Place Notification](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-5) || [code](https://github.com/kiok46/ReactNative-Challenge-5)
 - [ReactNative-Challange-6:  Floating Burger](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-6) || [code](https://github.com/kiok46/ReactNative-Challenge-6)
+- [ReactNative-Challange-7:  Music Player](https://github.com/kiok46/ReactNative-Animation-Challenges#reactnative-challenge-7) || [code](https://github.com/kiok46/ReactNative-Challenge-7)
+
 
 ## Featured
 
