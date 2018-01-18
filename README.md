@@ -24,7 +24,7 @@ https://uimovement.com/ui/2513/addition-subtraction/
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34785573-8bf967d6-f657-11e7-9968-b5d72688b384.gif" width="400">
+<img src="https://user-images.githubusercontent.com/7335120/34785573-8bf967d6-f657-11e7-9968-b5d72688b384.gif" width="350">
 
 
 # ReactNative-Challenge-2
@@ -36,7 +36,7 @@ https://uimovement.com/ui/2334/contact-sync/
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34826468-aafe482c-f6fc-11e7-9457-1473484dd922.gif" width="350">
+<img src="https://user-images.githubusercontent.com/7335120/34826468-aafe482c-f6fc-11e7-9457-1473484dd922.gif" width="300">
 
 
 # ReactNative-Challenge-3
@@ -45,7 +45,7 @@ Android ✔️    iOS ✔️
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34905522-72c5f95c-f880-11e7-9513-60368041e9fd.gif" width="350">
+<img src="https://user-images.githubusercontent.com/7335120/34905522-72c5f95c-f880-11e7-9513-60368041e9fd.gif" width="300">
 
 # ReactNative-Challenge-4
 
@@ -57,7 +57,7 @@ Follow me on Instagram: https://www.instagram.com/kuldeep_kiok46/
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="350">
+<img src="https://user-images.githubusercontent.com/7335120/34905118-763c0246-f878-11e7-9c79-2623dc54a495.gif" width="300">
 
 # ReactNative-Challenge-5
 
@@ -67,7 +67,7 @@ Inspired from: Place Notification:  https://uimovement.com/ui/4679/place-notific
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34909336-50677936-f8c5-11e7-8f3c-688ba68e2ba3.gif" width="350">
+<img src="https://user-images.githubusercontent.com/7335120/34909336-50677936-f8c5-11e7-8f3c-688ba68e2ba3.gif" width="300">
 
 # ReactNative-Challenge-6
 
@@ -77,7 +77,7 @@ Inspired from: Floating Burger:  https://dribbble.com/shots/1746065-Floating-bur
 
 Android ✔️    iOS ✔️
 
-<img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="350">
+<img src="https://user-images.githubusercontent.com/7335120/34966136-8774fc3a-fa7f-11e7-9d9d-6a9b342bd740.gif" width="300">
 
 # ReactNative-Challenge-7
 
